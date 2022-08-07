@@ -1,0 +1,1 @@
+# templateWPF_DotNet6
