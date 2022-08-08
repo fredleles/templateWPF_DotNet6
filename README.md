@@ -1,1 +1,3 @@
-# templateWPF_DotNet6
+# templateWPF_MVVM
+
+Template básico que utiliza Caliburn.Micro para projetos WPF.
